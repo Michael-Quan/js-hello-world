@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+var msg = "Hello  World!";
+console.log("Hello, World!");
+
+
 
 /*  
 Next, PLAY! 
